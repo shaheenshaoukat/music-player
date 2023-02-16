@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698441429467",
+    "project_id": "easytutomusicapp-89901",
+    "storage_bucket": "easytutomusicapp-89901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698441429467:android:39730ba196f4e2692737fe",
+        "android_client_info": {
+          "package_name": "com.example.easytutomusicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698441429467-5fv3rknb9rq7s4onnraig9midtm3mjl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohVMyVrByjCUV-2KtzqoWVA9jN7DwMPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698441429467-5fv3rknb9rq7s4onnraig9midtm3mjl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
